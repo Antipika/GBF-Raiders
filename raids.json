@@ -1270,4 +1270,12 @@
 	"image": "/assets/raids/BattleRaid_Snow_White_Nightmare100.png",
 	"category": "Unite and Fight",
 	"element": "Water"
+},
+{
+	"english": "Lvl 120 Huanglong",
+	"japanese": "Lv120 黄龍",
+	"room": "lv120hua",
+	"image": "/assets/raids/Huanglong_Nightmare.jpg",
+	"category": "Rise of the Beasts",
+	"element": "Light"
 }]
