@@ -1278,4 +1278,12 @@
 	"image": "/assets/raids/Huanglong_Nightmare.jpg",
 	"category": "Rise of the Beasts",
 	"element": "Light"
+},
+{
+	"english": "Lvl 150 Tiamat Malice",
+	"japanese": "Lv150 ティアマト・マリス",
+	"room": "lv150tiam",
+	"image": "/assets/raids/Huanglong_Nightmare.jpg",
+	"category": "Rise of the Beasts",
+	"element": "Wind"
 }]
