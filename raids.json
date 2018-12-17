@@ -1286,4 +1286,12 @@
 	"image": "/assets/raids/Huanglong_Nightmare.jpg",
 	"category": "Rise of the Beasts",
 	"element": "Wind"
+},
+{
+	"english": "Lvl 200 Akasha",
+	"japanese": "Lv200 アーカーシャ",
+	"room": "lv200aka",
+	"image": "/assets/raids/Huanglong_Nightmare.jpg",
+	"category": "Rise of the Beasts",
+	"element": "Light"
 }]
