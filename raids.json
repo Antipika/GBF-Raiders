@@ -1326,4 +1326,36 @@
 	"image": "/assets/raids/BattleRaid_Bizarre_Beast_ExtremePlus.jpg",
 	"category": "Unite and Fight",
 	"element": "Light"
+},
+{
+	"english": "Lvl 75 Wicked Rebel",
+	"japanese": "Lv75 ウィケッドレブル",
+	"room": "lv75wi",
+	"image": "/assets/raids/BattleRaid_Bizarre_Beast_ExtremePlus.jpg",
+	"category": "Unite and Fight",
+	"element": "Dark"
+},
+{
+	"english": "Lvl 90 Tsukuyomi",
+	"japanese": "Lv90 ツクヨミ",
+	"room": "lv90tsu",
+	"image": "/assets/raids/BattleRaid_Bizarre_Beast_ExtremePlus.jpg",
+	"category": "Unite and Fight",
+	"element": "Dark"
+},
+{
+	"english": "Lvl 95 Tsukuyomi",
+	"japanese": "Lv95 ツクヨミ",
+	"room": "lv95tsu",
+	"image": "/assets/raids/BattleRaid_Bizarre_Beast_ExtremePlus.jpg",
+	"category": "Unite and Fight",
+	"element": "Dark"
+},
+{
+	"english": "Lvl 100 Tsukuyomi",
+	"japanese": "Lv100 ツクヨミ",
+	"room": "lv100tsu",
+	"image": "/assets/raids/BattleRaid_Bizarre_Beast_ExtremePlus.jpg",
+	"category": "Unite and Fight",
+	"element": "Dark"
 }]
