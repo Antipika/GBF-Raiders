@@ -1350,4 +1350,12 @@
 	"image": "/assets/raids/BattleRaid_Bizarre_Beast_ExtremePlus.jpg",
 	"category": "Unite and Fight",
 	"element": "Dark"
+},
+{
+	"english": "Lvl 150 Lucilius",
+	"japanese": "Lv150 ボーンドラゴン",
+	"room": "lv150luci",
+	"image": "/assets/raids/BattleRaid_Divergent_Knighthoods_Raid_Extreme.png",
+	"category": "Impossible Nightmare",
+	"element": "None"
 }]
